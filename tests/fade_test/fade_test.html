@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            body {
+                background: black;
+                transition: background ease-in-out .2s;
+                display: flex;
+                align-content: center;
+            }
+            .hovered {
+                background: white;
+                transition: background ease-in-out .2s;
+            }
+
+            .test {
+                transition: opacity, ease-in-out .1s;
+                opacity: 0 !important;
+            }
+
+            #video {
+                width: 550px;
+                transition: opacity, ease-in-out .1s;
+                opacity: 1;
+            }
+
+        </style>
+        <script>
+
+            document.addEventListener("DOMContentLoaded", function () {
+
+                var video = document.getElementById('video');
+
+                var paths = {
+                    "codespin": {
+                        "black": "../../documents/Site Design/codespin_anim/black.mp4",
+                        "white": "../../documents/Site Design/codespin_anim/white.mp4"
+                    }
+                }
+
+                video.addEventListener('canplaythrough',myHandler,false);
+                function myHandler(e) {
+                    if (e.target.matches(":hover")) {
+                        // video.classList.add("test");
+                        if (video.getAttribute("src") != paths["codespin"]["white"]) {
+                            video.setAttribute("src", paths["codespin"]["white"]);
+                        }
+                        document.querySelector("body").setAttribute("class", "hovered");
+                    } else {
+                        document.querySelector("body").setAttribute("class", "");
+                        if (video.getAttribute("src") != paths["codespin"]["black"]) {
+                            video.setAttribute("src", paths["codespin"]["black"]);
+                        }
+                        // video.classList.remove("test");
+                    }
+                    // console.log(e);
+                }
+            });
+
+        </script>
+        <meta charset="UTF-8">
+        <title>Fade test</title>
+    </head>
+    <body>
+        <video
+            src="../../documents/Site Design/codespin_anim/black.mp4"
+            autoplay
+            loop
+            id="video">
+
+        </video>
+    </body>
+</html>
