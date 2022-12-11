@@ -1,3 +1,5 @@
+# Outdated :(
+
 # Developer | 3DModeller | Web-Designer
 
 My name is Stanislav Snagin. Further you can find some information about myself.
