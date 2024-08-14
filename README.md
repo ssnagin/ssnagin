@@ -1,6 +1,6 @@
 # Hey!
 
-Visit ssngn.ru for more info (right now it might be in developing)
+Visit <a href="https://ssngn.ru">ssngn.ru</a> for more info (right now it might be in development)
 
 It is good that youv've reached this page. I am Stas, and I code many things, usually as pet-projects. I have a background in Java, C#, Python, Mobile, VR/AR and Web-Developing. Also I can cope with database management.
 
@@ -18,4 +18,4 @@ It is good that youv've reached this page. I am Stas, and I code many things, us
 ### Additional
 
 ## Cooperation
-If you interested and want to offer a case, please, email me. I prefer not to respond in social networks.
+If you interested or want to offer a case, please, email me. I prefer not to respond in social networks.
