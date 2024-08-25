@@ -9,7 +9,7 @@ It is good that youv've reached this page. I am Stas, and I code many things, us
 ### General
 - ℹ Name: Stanislav Snagin
 - 🗺Country: Russian Federation
-- 🏙 City: Ivanovo (Saint-Petersburg)
+- 🏙 City: Saint-Petersburg
 - 📧 Email: s_lstoo@bk.ru
 - 🗨 Languages:
     - English. B2 Level, Fluently
