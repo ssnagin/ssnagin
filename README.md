@@ -12,7 +12,7 @@ It is good that youv've reached this page. I am Stas, and I code many things, us
 - 🏙 City: Saint Petersburg
 - 📧 Email: s_lstoo@bk.ru
 - 🗨 Languages:
-    - English. B2 Level, Fluently
+    - English. B2 Level, Fluently (B2 >>> CURRENTLY >>> C1)
     - Russian. My native language
 
 ## Cooperation
