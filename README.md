@@ -12,8 +12,9 @@ It is good that youv've reached this page. I am Stas, and I code many things, us
 - 🏙 City: Saint Petersburg
 - 📧 Email: s_lstoo@bk.ru
 - 🗨 Languages:
-    - English. C1
-    - Russian. My native language
+    - English: C1
+    - Russian: My native language
+    - German: A0 :)
 
 ## Cooperation
 If you interested or want to offer a case, please, email me. I prefer not to respond in social networks.
