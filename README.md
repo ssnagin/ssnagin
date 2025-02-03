@@ -17,4 +17,4 @@ It is good that youv've reached this page. I am Stas, and I code many things, us
     - German: A0 :)
 
 ## Cooperation
-If you interested or want to offer a case, please, email me. I prefer not to respond in social networks.
+If you are interested or want to offer a case, please, email me. I prefer not to respond in social networks.
