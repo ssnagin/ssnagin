@@ -1,3 +1,5 @@
+![Welcome!](test.com)
+
 Webpage here - <a href="https://ssngn.ru">ssngn.ru</a>
 
 ### General
