@@ -1,4 +1,4 @@
-![Welcome!](test.com)
+![Welcome!](https://github.com/ssnagin/ssnagin/blob/main/text.gif)
 
 Webpage here - <a href="https://ssngn.ru">ssngn.ru</a>
 
