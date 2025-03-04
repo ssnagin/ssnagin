@@ -1,8 +1,4 @@
-Visit <a href="https://ssngn.ru">ssngn.ru</a> for more info (right now it might be in development)
-
-It is good that youv've reached this page. I am Stas, and I code many things, usually as pet-projects. I have a background in Java, C#, Python, Mobile, VR/AR and Web-Developing. Also I can cope with database management.
-
-## Information
+Webpage here - <a href="https://ssngn.ru">ssngn.ru</a>
 
 ### General
 
@@ -11,9 +7,10 @@ It is good that youv've reached this page. I am Stas, and I code many things, us
 - 🏙 City: Saint Petersburg
 - 📧 Email: s_lstoo@bk.ru
 - 🗨 Languages:
-    - English: C1
-    - Russian: My native language
-    - German: A0 :)
+    - 🇺🇸 English: C1
+    - 🇩🇪 German: A1
+    - 🇷🇺 Russian: Natively
+    
 
 ## Cooperation
 If you are interested or want to offer a case, please, email me. I prefer not to respond in social networks.
