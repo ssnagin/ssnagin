@@ -1,17 +1,18 @@
-![Welcome!](https://github.com/ssnagin/ssnagin/blob/main/text.gif)
+<div align="center"><img alt="Welcome!" src="https://github.com/ssnagin/ssnagin/blob/main/text.gif" /></div>
 
-### <a href="https://ssngn.ru">ssngn.ru</a>
 
-### General
+<h2 align="center"><a href="https://ssngn.ru">website</a></h2>
 
-- ℹ Name: Stanislav Snagin
-- 🗺Country: Russian Federation
-- 🏙 City: Saint Petersburg
-- 📧 Email: s_lstoo@bk.ru
-- 🗨 Languages:
-    - 🇺🇸 English: C1
-    - 🇩🇪 German: A1
-    - 🇷🇺 Russian: Natively
+<div align="center">
 
+| title | description |
+| ----- | ----------- |
+| name  | Stanislav Snagin |
+| country | 🇷🇺 |
+| city | Saint-Petersburg |
+| email | s_lstoo@bk.ru |
+| languages | 🇺🇸 C1, 🇩🇪 A1 🇷🇺 |
+
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssnagin&theme=github-compact)](https://github.com/ssnagin/github-readme-activity-graph)
