@@ -1,7 +1,7 @@
 <div align="center"><img alt="Welcome!" src="https://github.com/ssnagin/ssnagin/blob/main/text.gif" /></div>
 
 
-<h2 align="center"><a href="https://ssngn.ru">website</a></h2>
+<h2 align="center"><a href="">🚧website🚧</a></h2>
 
 <div align="center">
 
