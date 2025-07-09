@@ -10,13 +10,61 @@ body {
   background-color: #DDDDDD;
 }
 
-.sn_container {
+.sn_container h1 {
+  font-family: Hack, "Courier New", Courier, monospace;
+}
+
+.sn_card {
+  /* CSS */
+}
+.sn_card .button-58, .sn_card .button-58-github, .sn_card .button-58-telegram {
+  flex: 1 0 auto;
+  align-items: center;
+  background-color: #06f;
+  border: 2px solid #06f;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  fill: #000;
+  font-family: Inter, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  height: 48px;
+  justify-content: center;
+  letter-spacing: -0.8px;
+  line-height: 24px;
+  outline: 0;
+  padding: 0 17px;
   text-align: center;
+  text-decoration: none;
+  transition: all 0.3s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
 }
-.sn_container div {
-  padding-top: 50px;
+.sn_card .button-58-telegram {
+  background-color: #24A1DE;
+  border-color: #24A1DE;
 }
-.sn_container div div {
-  padding: 40px;
-  background: #FFFFFF;
+.sn_card .button-58-github {
+  background-color: #000000;
+  color: white;
+  border-color: #000000;
+}
+.sn_card .button-58:focus, .sn_card .button-58-telegram:focus, .sn_card .button-58-github:focus {
+  color: #3b4c68;
+}
+.sn_card .button-58:hover, .sn_card .button-58-telegram:hover, .sn_card .button-58-github:hover {
+  background-color: #3385ff;
+  border-color: #3385ff;
+  fill: #06f;
+}
+.sn_card .button-58:active, .sn_card .button-58-telegram:active, .sn_card .button-58-github:active {
+  background-color: #3385ff;
+  border-color: #3385ff;
+  fill: #06f;
+}
+.sn_card .button-58, .sn_card .button-58-telegram, .sn_card .button-58-github {
+  min-width: 170px;
 }
