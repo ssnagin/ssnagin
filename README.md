@@ -19,4 +19,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssnagin&theme=github-compact)](https://github.com/ssnagin/github-readme-activity-graph)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=ssnagin&color=blueviolet)
