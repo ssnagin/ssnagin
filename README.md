@@ -3,6 +3,8 @@
 
 <h2 align="center"><a href="https://ssnagin.github.io/ssnagin/">website</a></h2>
 
+<p align="center">ITMO CS Bachelor, 2nd year</p>
+
 <div align="center">
 
 | title | description |
@@ -16,3 +18,5 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssnagin&theme=github-compact)](https://github.com/ssnagin/github-readme-activity-graph)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
