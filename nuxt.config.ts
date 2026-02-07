@@ -1,20 +1,28 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  compatibilityDate: '2025-07-15',
-
   modules: [
-    '@nuxt/tailwindcss',
+    '@nuxt/eslint',
     '@nuxt/ui'
   ],
 
-  app: {
-    head: {
-      title: 'ssngn.ru | Дальше уже некуда',
-      meta: [
-        { name: 'ssngn.ru', content: 'Дальше уже некуда' }
-      ]
-    }
+  devtools: {
+    enabled: true
   },
 
-  devtools: { enabled: true }
+  css: ['~/assets/css/main.css'],
+
+  routeRules: {
+    '/': { prerender: true }
+  },
+
+  compatibilityDate: '2025-01-15',
+
+  eslint: {
+    config: {
+      stylistic: {
+        commaDangle: 'never',
+        braceStyle: '1tbs'
+      }
+    }
+  }
 })
