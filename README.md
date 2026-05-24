@@ -12,7 +12,6 @@
 | name  | Stanislav Snagin |
 | country | 🇷🇺 |
 | city | Saint-Petersburg |
-| email | s_lstoo@bk.ru |
 | languages | 🇺🇸 C1; 🇩🇪 A1; 🇷🇺 |
 
 </div>
