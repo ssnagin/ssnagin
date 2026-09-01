@@ -3,7 +3,7 @@
 
 <h2 align="center"><a href="https://ssnagin.github.io/ssnagin/">website</a></h2>
 
-<p align="center">ITMO SE Bachelor, 2nd year</p>
+<p align="center">ITMO SE'28</p>
 
 <div align="center">
 
